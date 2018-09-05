@@ -1,0 +1,37 @@
+body {
+	background-color:#44403A;
+}
+
+
+div {
+	font-family:Karla;
+	color:#FCF1E4;
+	padding:100px;	
+}
+
+
+h2 {
+	text-transform: uppercase;
+	font-size: 20px;
+	letter-spacing: 1.5px;
+}
+
+strong {
+	font-weight: bold;
+	color: #F77238;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+}
+
+p {
+	line-height: 16px;
+	font-size: 12px;
+}
+
+.context
+	{
+		font-style: italic;
+		color:#FACBB6;
+
+
+	}
