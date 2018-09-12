@@ -1,0 +1,98 @@
+body {
+	font-family:"Open Sans";
+	margin-left:100px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+p {
+	font-size: 16px;
+	line-height: 1.4em;
+}
+p.description {
+	font-size: 10px;
+	color:gray;
+}
+
+div.top {
+	line-height: .5em;
+}
+
+h2 {
+	color:gray;
+	font-size: 20px;
+}
+
+/*There are all the ids for the speciman paragraphs.*/
+
+#font_weight_normal{
+	font-weight: normal;
+}
+
+#font_weight_bold{
+	font-weight: bold;
+}
+
+#font_style_normal{
+	font-style:normal;
+}
+
+#font_style_italic{
+	font-style: italic;
+
+}
+
+
+#letter_spacing_normal{
+	letter-spacing: normal;
+
+}
+
+
+#letter_spacing_loose {
+	letter-spacing: .3em;
+
+}
+
+#letter_spacing_tight {
+	letter-spacing: -.06em;
+}
+
+#text_decor_none {
+	text-decoration: none;
+
+}
+
+#text_decor_under {
+	text-decoration: underline;
+
+}
+
+#text_decor_linet {
+	text-decoration: line-through;
+
+}
+
+#text_decor_over {
+	text-decoration: overline;
+
+}
+
+#txt_trans_none {
+	text-transform: none;
+}
+
+#txt_trans_upper {
+	text-transform: uppercase;
+
+}
+
+#txt_trans_lower {
+	text-transform: lowercase;
+
+}
+
+#txt_trans_cap{
+	text-transform: capitalize;
+
+}
