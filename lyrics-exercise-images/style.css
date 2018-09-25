@@ -1,0 +1,113 @@
+body {
+	text-align: center;
+	font-family: Karla;
+}
+
+body {
+	background-color: orange;
+	text-align: center;
+}
+
+h1 {
+	font-size: 300px;
+	color: red;
+	display: inline;
+}
+
+h2 {
+	font-size: 30px;
+	letter-spacing: loose;
+	color:red;
+	padding: 100px;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+	text-align: center;
+}
+
+
+img {
+	text-align: center;
+	width: 100%;
+	max-width: 400px;
+}
+
+h3 {
+	font-size:85px;
+	color: white;
+	width: 800px;
+	margin:0px auto;
+	text-align: justify;
+
+}
+
+p {
+	color: white;
+	padding:50px;
+	line-height: 30px;
+	letter-spacing: 1px;
+	font-size: 13px;
+	padding:100px;
+}
+
+.chorus,.verse{
+	text-transform: uppercase;
+	padding-top: 50px;
+	margin: 0px;
+	letter-spacing: 10px;
+	color: red;
+	font-size: 10px;
+	font-weight: bold;
+
+
+}
+
+
+.whisper {
+	color: pink;
+}
+
+.red {
+	color: red;
+}
+
+div.parallax {
+
+    height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:-10px;
+}
+
+div.parallax#one{ 
+    background-image: url("photos/pic1genesis.jpg");
+}
+
+  div.parallax#two {
+background-image: url("photos/pic2genesis.jpg");
+    }
+
+ div.parallax#three {
+background-image: url("photos/pic3genesis.jpg");
+    }
+
+     div.parallax#four {
+background-image: url("photos/pic4genesis.jpg");
+    }
+
+     div.parallax#five {
+background-image: url("photos/pic5genesis.jpg");
+    }
+
+   div.parallax#six {
+background-image: url("photos/pic6genesis.jpg");
+    }
+
+   div.parallax#seven {
+background-image: url("photos/pic7genesis.jpg");
+    }
+
+    div.parallax#eight {
+background-image: url("photos/pic8genesis.jpg");
+    }
