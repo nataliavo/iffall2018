@@ -1,0 +1,169 @@
+body {
+	font-family: "Archivo Narrow", sans-serif;
+	margin:0px;
+	padding:0px;
+	width:fixed;
+	color: white;
+}
+
+
+header {
+	text-align: center;
+	padding-top:163px;
+	padding-bottom: 160px;
+	background-image: url(https://66.media.tumblr.com/9a68a7b8967a1aac9029c2a6673820e1/tumblr_meq7j6e9WI1qjdj30o1_500.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+header h1 {
+	margin-top: 0;
+	margin-bottom: 0px;
+	font-size:80px;
+	font-weight: 700;
+}
+
+header h2 {
+	font-weight: 500px;
+	font-size: 30px;
+	margin-top: 13px;
+}
+
+header h2 em{
+	font-style: 500i;
+}
+
+section {
+	width: 965px;
+	height:625px;
+}
+
+
+/*end of header, start of other sections*/
+
+#second, #third, #fourth {
+	padding-top: 12px;
+	padding-left: 240px;
+	padding-right: 240px;
+	padding-bottom: 80px;
+}
+
+
+#second h2 {
+	text-align: center;
+	font-size: 40px;
+	padding-bottom:4px;
+}
+
+
+#second p {
+	line-height: 25px;
+	font-size: 18px;
+	letter-spacing: loose;	
+}
+
+#second div {
+	width:960px;
+}
+
+#second img {
+	display: block;
+	position: relative;
+	float: right;
+	margin-left:30px;
+	margin-bottom: 30px;
+}
+
+section#second {
+	background: linear-gradient(to bottom right, #ff9933 0%, #ff6666 100%);
+
+}
+
+.secondimage {
+	height:300px;
+	width: 400px;
+}
+
+#third div {
+	width:50%;
+	display: inline-block;
+	padding-bottom: 20px;
+}
+
+#third img {
+	float: left;
+	padding-right: 10px;
+}
+
+
+#third h2, #fourth h2{
+	padding-bottom: 4px;
+	font-weight: 500px;
+	font-size: 40px;
+	text-align: center;
+}
+
+#third {
+	padding-top: 10px;
+    background: linear-gradient(to top right, #ff9900 0%, #66ffcc 100%);
+    padding-bottom:45px;
+	
+}
+
+#third p {
+	font-size: 17px;
+	width:450px;
+	line-height: 25px;
+	}
+
+#third h4 {
+	font-size: 21px;
+	font-style:700;
+}
+
+
+
+#third p {
+	margin-top:0px;
+	margin-bottom:0px;
+	font-weight: 600;
+}
+
+#third h4 {
+	margin-top:0px;
+	margin-bottom:10px;
+}
+
+#fourth {
+    background: linear-gradient(to top right, #800000 0%, #66ccff 100%);
+}
+
+#fourth h4 {
+	padding-bottom: 100px;
+}
+
+#fourth p {
+	text-align:center;
+	font-size:25px;
+	font-weight:600;
+	width:750px;
+	margin: auto;
+	line-height:35px;
+}
+
+#fourth {
+	height: 390px;
+	padding-bottom: 0px;
+	margin-bottom:0px;
+}
+
+#fifth 	{
+	height: 100px;
+	margin-top:45px;
+	margin-left:240px;
+	font-weight:700;
+	font-size:18px;
+	color:orange;
+	}
+
+
