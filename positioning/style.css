@@ -1,0 +1,45 @@
+aside#firstcall{
+	display:inline-block;
+	float:right;
+
+}
+
+#one {
+	position: relative;
+}
+
+aside#secondcall{
+	position: absolute;
+	bottom:0px;
+	right:0px;
+}
+
+aside#thirdcall{
+	position: fixed;
+	top:0px;
+	right:0px;
+	background-color:green;
+	z-index: 400;
+}
+
+section:nth-child(4) {
+	position: relative;
+}
+
+section:nth-child(4) aside {
+	position:absolute;
+	left:50%;
+	transform: translate(-50%);
+}
+
+aside#fourthcall {
+	background-color:red;
+	z-index: 100;
+}
+
+aside#fifthcall {
+	background-color:black;
+	position:absolute;
+	margin-left:10px;
+	margin-top:10px;
+}
