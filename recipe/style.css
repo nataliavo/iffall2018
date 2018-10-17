@@ -1,0 +1,115 @@
+* {
+	font-family: "freight-text-pro";
+	color:darkgray;
+	margin: 0px;
+	font-weight: 500;
+}
+
+img {
+	width:100%;
+	margin:0px;
+	padding:0px;
+	
+}
+
+#line {
+	border-right: .5px solid darkgrey;
+	height:100px;
+	width:0px;
+	margin-left:0px;
+	padding-top:5px;
+	margin-bottom: 25px;
+}
+
+h1 {
+	font-size: 45px;
+	margin-bottom: 40px;
+
+
+}
+
+h3 {
+	font-style:italic;
+	font-weight:300;
+	font-size:30px;
+	margin-bottom: 50px;
+}
+
+div {
+	margin: 50px;
+	
+}
+
+span {
+	font-size: 20px;
+	font-style: 300;
+}
+
+table, td, th {
+	border: 1px solid lightgray;
+	padding: 10px;
+	border-collapse: collapse;
+	width:300px;
+	margin-bottom:200px;
+
+}
+
+ul {
+	line-height: 20px;
+}
+
+h4 {
+	margin-bottom: 20px;
+}
+
+#space {
+	margin-bottom:200px;
+}
+
+p {
+	font-size:25px;
+}
+
+#blue1 {
+	position: absolute;
+	width:auto;
+	height:230px;
+	bottom:350px;
+	left:220px;
+}
+
+#blue2 {
+	position:absolute;
+	top:900px;
+	width:300px;
+	right:200px;
+}
+
+#lemon1 {
+	width:300px;
+	position: absolute;
+	top:550px;
+	left:300px;
+	width:250px;
+}
+
+#lemon3 {
+	position: absolute;
+	width:300px;
+	left:280px;
+	top:1800px;
+}
+
+#blue3 {
+	position: absolute;
+	width:300px;
+	top:3700px;
+	left:50px;
+}
+body {
+	padding-bottom:100px;
+}
+
+img {
+	overflow: hidden;
+}
